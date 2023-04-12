@@ -1,0 +1,19 @@
+{
+  "name": "shave-xp-cypress",
+  "version": "1.0.0",
+  "description": "Projeto de teste de ponta a ponta para o sheve XP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cypress",
+    "cypress",
+    "xp"
+  ],
+  "author": "Gabriel Novaes",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.9.0"
+  }
+}
